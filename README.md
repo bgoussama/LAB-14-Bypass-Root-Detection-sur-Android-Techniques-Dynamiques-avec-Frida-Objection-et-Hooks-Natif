@@ -246,7 +246,8 @@ L’outil détecte l’émulateur Android disponible et affiche plusieurs inform
 * build ID ;
 * tags système.
 
-<img width="687" height="542" alt="image" src="https://github.com/user-attachments/assets/d3353794-d777-4c84-ba10-281188f876c4" />
+<img width="656" height="542" alt="image" src="https://github.com/user-attachments/assets/f0e1722c-7787-40ca-8e2e-1dc3b935eede" />
+
 
 
 Cette capture montre que Medusa détecte correctement l’émulateur Android et récupère les informations système nécessaires.
